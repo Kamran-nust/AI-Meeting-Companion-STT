@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Transformers](https://img.shields.io/badge/🤗_Transformers-4.36.0-orange.svg)](https://huggingface.co/docs/transformers/index)
 [![Gradio](https://img.shields.io/badge/Gradio-5.23.2-green.svg)](https://gradio.app/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An AI-powered meeting companion that transcribes speech to text and analyzes meeting content using advanced language models. Built with OpenAI's Whisper, IBM Watson, and Meta's Llama models.
 
@@ -117,4 +116,5 @@ AI-Meeting-Companion-STT/
 
 ---
 
+This is part of IBM GenAI specialization course project
 
