@@ -116,5 +116,8 @@ AI-Meeting-Companion-STT/
 
 ---
 
+## License
+Copyrights : IBM Coursera Course
+
 This is part of IBM GenAI specialization course project
 
